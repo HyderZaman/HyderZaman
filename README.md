@@ -1,4 +1,3 @@
-[01-profile-README.md](https://github.com/user-attachments/files/28792679/01-profile-README.md)
 # 👋 Hi, I'm Hyder Zaman
 
 > **Senior Network & Infrastructure Engineer** | Hyderabad, Pakistan 🇵🇰
@@ -11,7 +10,7 @@
 
 I'm a passionate infrastructure engineer with hands-on experience managing complex enterprise environments. I specialize in network design, virtualization, and automation for large organizations including **Hayatabad Medical Complex (HMC)**, one of Pakistan's largest public hospitals.
 
-- 🔭 Currently managing **14+ VMs** on Proxmox virtualization platform
+- 🔭 Currently managing **30+ VMs** on Proxmox virtualization platform
 - 🌐 Administering **multi-ISP failover** networks with MikroTik
 - 🤖 Building **AI-powered trading bots** with Python & Claude AI
 - 🏥 Delivering **healthcare IT infrastructure** serving thousands of patients daily
