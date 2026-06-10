@@ -11,7 +11,7 @@
 I'm a passionate infrastructure engineer with hands-on experience managing complex enterprise environments. I specialize in network design, virtualization, and automation for large organizations including **Hayatabad Medical Complex (HMC)**, one of Pakistan's largest public hospitals.
 
 - 🔭 Currently managing **30+ VMs** on Proxmox virtualization platform
-- 🌐 Administering **multi-ISP failover** networks with MikroTik
+- 🌐 Administering **multi-ISP failover** networks with MikroTik, Cisco and Fortigate
 - 🤖 Building **AI-powered trading bots** with Python & Claude AI
 - 🏥 Delivering **healthcare IT infrastructure** serving thousands of patients daily
 - 📍 Based in Hyderabad, Pakistan | Open to remote work globally
@@ -25,6 +25,7 @@ I'm a passionate infrastructure engineer with hands-on experience managing compl
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-L2TP%2FIPSec-orange?style=for-the-badge)
 ![VLAN](https://img.shields.io/badge/VLAN-802.1Q-blue?style=for-the-badge)
+![Fortigate](https://img.shields.io/badge/Fortigate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ### Virtualization & Storage
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
