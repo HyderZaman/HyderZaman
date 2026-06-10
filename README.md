@@ -25,21 +25,34 @@ I'm a passionate infrastructure engineer with hands-on experience managing compl
 ### Networking
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortigate](https://img.shields.io/badge/Fortigate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-L2TP%2FIPSec-orange?style=for-the-badge)
 ![VLAN](https://img.shields.io/badge/VLAN-802.1Q-blue?style=for-the-badge)
-![Fortigate](https://img.shields.io/badge/Fortigate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ### Virtualization & Storage
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Synology](https://img.shields.io/badge/Synology-NAS-grey?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Development & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+### Monitoring & Security
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-Active-green?style=for-the-badge)
+![UFW](https://img.shields.io/badge/UFW-Firewall-red?style=for-the-badge)
+
+### VoIP & Communication
+![FreePBX](https://img.shields.io/badge/FreePBX-FF6C2C?style=for-the-badge&logo=asterisk&logoColor=white)
+![Asterisk](https://img.shields.io/badge/Asterisk-0099CC?style=for-the-badge&logoColor=white)
 
 ### Web & Servers
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -94,5 +107,5 @@ I'm a passionate infrastructure engineer with hands-on experience managing compl
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyderZaman)
 
 ---
- 
+
 *"Infrastructure is the backbone of every great system"* 🏗️
