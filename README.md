@@ -10,7 +10,8 @@
 
 I'm a passionate infrastructure engineer with hands-on experience managing complex enterprise environments. I specialize in network design, virtualization, and automation for large organizations including **HMC Hashim Medical City Hospital**, one of Pakistan's largest private hospitals.
 
-- 🎓 **10+ years experience** in University network infrastructure
+- 🎓 **B.E in Computer System Engineering**
+- 🏫 **10+ years experience** in University network infrastructure
 - 🔭 Currently managing **30+ VMs** on Proxmox virtualization platform
 - 🌐 Administering **multi-ISP failover** networks with MikroTik, Cisco and Fortigate
 - 🤖 Building **AI-powered trading bots** with Python & Claude AI
