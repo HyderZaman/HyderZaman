@@ -73,6 +73,8 @@ I'm a passionate infrastructure engineer with hands-on experience managing compl
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### Monitoring & Security
+![SolarWinds Orion](https://img.shields.io/badge/SolarWinds-Orion-FF6A00?style=for-the-badge&logo=solarwinds&logoColor=white)
+![Kiwi Syslog](https://img.shields.io/badge/Kiwi-Syslog_Server-00A4EF?style=for-the-badge)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-Active-green?style=for-the-badge)
