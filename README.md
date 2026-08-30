@@ -151,6 +151,16 @@ I'm a passionate infrastructure engineer with hands-on experience managing compl
 - Implemented **policy-based routing** for traffic separation
 - Set up **Radiology PACS** secure network access
 
+ ### 🏥 PACS Server Security Remediation & Rebuild
+> Incident response and infrastructure rebuild for hospital radiology imaging system
+
+- Identified **malware infection** on legacy Windows PACS server (JBoss/dcm4chee) that hijacked .exe file associations via registry manipulation
+- Discovered **unauthorized remote access tools** and cloud sync software running as hidden startup entries — a critical patient data security risk
+- Rebuilt PACS infrastructure from scratch on **Ubuntu 22.04** running **dcm4chee-arc-light 5.34.3** in Docker
+- Identified and remediated a **MariaDB ransomware artifact** (exposed port with default credentials) during the rebuild
+- Hardened the new deployment — removed unnecessary port exposure, enforced **role-based access** (studies-view-only roles) in the dcm4chee-arc-ui2 interface
+- Diagnosed and resolved a **hardcoded IP misconfiguration** in the Oviyam DICOM viewer config causing connectivity failures post-migration
+
 ---
 
 ## 📈 GitHub Stats
